@@ -1,0 +1,13 @@
+This directory contains Python code for automatic evaluation 
+and running the contest of spam filters for the subject
+A4B99RPH tought at Czech Technical University in Prague,
+faculty of electrical engineering.
+
+It contains the following subdirectories:
+
+ae:
+   The code that can be used for automatic evalution 
+   independently of the particular student task topic.
+
+spam:
+   The code specific to the spam task 
